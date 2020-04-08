@@ -11,10 +11,6 @@ def input_to_index(user_input)
   return "#{user_input}".to_i - 1
 end
 
-user_input = '5'
-
-input_to_index(user_input)
-
 def move(board,user_input,character='X')
  return "#{board}"
 end
