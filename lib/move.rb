@@ -12,5 +12,5 @@ def input_to_index(user_input)
 end
 
 def move(board,user_input,character='X')
- return display_board
+ return "#{board[user_input]}"
 end
