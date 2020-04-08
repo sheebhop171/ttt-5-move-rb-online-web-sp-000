@@ -13,4 +13,4 @@ end
 
 user_input = '5'.to_i
 
-input_to_index
+input_to_index(user_input)
