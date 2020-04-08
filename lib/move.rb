@@ -15,8 +15,8 @@ user_input = '5'
 
 input_to_index(user_input)
 
-def move(board,user_input,character)
-
+def move(board,user_input,character='X')
+ return
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
