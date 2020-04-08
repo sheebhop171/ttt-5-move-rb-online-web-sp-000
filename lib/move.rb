@@ -14,3 +14,11 @@ end
 user_input = '5'
 
 input_to_index(user_input)
+
+def move(board,user_input,character)
+
+end
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+user_input = '5'
+character = 'X'
