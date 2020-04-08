@@ -19,6 +19,6 @@ def move(board,user_input,character='X')
  return "#{board}"
 end
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 user_input = '1'
 character = 'X'
